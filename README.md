@@ -1,8 +1,11 @@
 # Video carousel component
 
-*Note: unit tests haven't been written to save time. If this component was going to production, tests have to be added.*
+*Note 1: unit tests haven't been written to save time. If this component was going to production, tests have to be added.*
+
 *Note 2: I coundn't find the right font in the Drive shared with me*
+
 *Note 3: Videos are not included in the repository because they are too large*
+
 *Note 4: The video #11 doesn't have the right format. It's slitghly larger*
 
 ## Screenshots
