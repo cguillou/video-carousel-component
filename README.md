@@ -4,7 +4,7 @@
 
 *Note 2: I coundn't find the right font in the Drive shared with me.*
 
-*Note 3: Videos are not included in the repository because they are too large.*
+*Note 3: Videos are not included in the repository because they are too large. They can be added in `/public/assets/medias`.*
 
 *Note 4: The video #11 doesn't have the right format. It's slitghly larger.*
 
