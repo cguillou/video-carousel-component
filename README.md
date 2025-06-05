@@ -1,19 +1,17 @@
 # Video carousel component
 
-*Note 1: unit tests haven't been written to save time. If this component was going to production, tests have to be added.*
+*Note 1: Unit tests haven't been written to save time. If this component was going to production, tests have to be added.*
 
-*Note 2: I coundn't find the right font in the Drive shared with me*
+*Note 2: I coundn't find the right font in the Drive shared with me.*
 
-*Note 3: Videos are not included in the repository because they are too large*
+*Note 3: Videos are not included in the repository because they are too large.*
 
-*Note 4: The video #11 doesn't have the right format. It's slitghly larger*
+*Note 4: The video #11 doesn't have the right format. It's slitghly larger.*
 
 ## Screenshots
 
-_Desktop_
 ![Screenshot 2025-06-05 at 12 29 09](https://github.com/user-attachments/assets/e63d0821-6996-41c9-9668-949c70b1c7a5)
 
-_Mobile_
 ![Screenshot 2025-06-05 at 12 30 03](https://github.com/user-attachments/assets/5411519f-75ba-4484-a711-4153d61addec)
 
 
